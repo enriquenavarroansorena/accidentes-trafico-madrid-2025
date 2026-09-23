@@ -1,0 +1,8 @@
+# Notas de trabajo internas (no forman parte de la entrega)
+_contexto/
+
+# Archivos temporales de Excel / sistema
+~$*.xlsx
+~$*.xls
+Thumbs.db
+desktop.ini
